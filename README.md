@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+I am a Computer Science Student at the University of Connecticut currently looking for an internship in the Software Engineering or Cyber Security Field.
+On my Github you'll find my personal Website that I have just started working on as well as previous personal and class coding projects and assignments.  
 
 <!--
 **Powers0/Powers0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
